@@ -20,3 +20,5 @@ export const TASKS: Task[] = [
     reminder: false,
   },
 ];
+
+/basic coding knowledge, /
